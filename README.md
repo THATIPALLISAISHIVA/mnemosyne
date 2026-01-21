@@ -30,13 +30,13 @@ The system utilizes a state-of-the-art composed architecture:
    ```bash
    pip install -r requirements.txt
    ```
-   ![Placeholder Image 1](mnemosyne/1.png)
+   ![Placeholder Image 1](1.png)
    *Figure 1: Stable Diffusion on CPU*
 
-   ![Placeholder Image 2](mnemosyne\2.png)
+   ![Placeholder Image 2](2.png)
    *Figure 2: Pipeline Workflow*
 
-   ![Placeholder Image 3](mnemosyne\3.png)
+   ![Placeholder Image 3](3.png)
    *Figure 3: Successful AI Image Generation via Python (Stable Diffusion Run Completed)*
 
 2. **Practical recommendation (for your CPU prototype)**:
@@ -53,10 +53,10 @@ The system utilizes a state-of-the-art composed architecture:
 
 ## Results
 
-![Placeholder Result 1](mnemosyne\sample_character.png)
+![Placeholder Result 1](sample_character.png)
 *Reference Input*
 
-![Placeholder Result 2](mnemosyne\result.png)
+![Placeholder Result 2](result.png)
 *Generated Output*
 
 ## License & Author
