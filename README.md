@@ -60,5 +60,5 @@ The system utilizes a state-of-the-art composed architecture:
 *Generated Output*
 
 ## License & Author
-**Author**: Prototype Version
-**License**: MIT License. Free for research and educational use.
+**Author**: Trinetra
+**License**: MIT License.
