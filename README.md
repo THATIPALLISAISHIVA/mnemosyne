@@ -41,7 +41,7 @@ The system utilizes a state-of-the-art composed architecture:
 
 2. **Practical recommendation (for your CPU prototype)**:
    ```bash
-   Use 10 steps for a fast demo (output will be okay-ish)
+   Use 10 steps for a fast demo 
    Use 20 steps for decent quality
    Use 30 steps for best demo quality (but slow on CPU)
    ```
